@@ -4,6 +4,8 @@
 
 Viton - Verse is a cutting-edge platform designed to revolutionize the online shopping experience by integrating social interaction, augmented reality (AR), and blockchain technology. Our platform allows users to communicate with each other, shop for products, earn virtual coins, and make purchases using both coins and cryptocurrencies. With features like virtual try-ons for clothes, glasses, and shoes, Viton - Verse offers a seamless and interactive shopping experience.
 
+![image](https://github.com/divyamTBA/MVPs-HTL-VTonVerse/assets/163088865/c09b11e1-e177-4632-80c0-79438be58209)
+
 ## Problem
 
 ### Current Challenges in Online Shopping
@@ -42,6 +44,12 @@ Viton - Verse is a cutting-edge platform designed to revolutionize the online sh
 5. *Real-Time Optimization (RTO):*
    - *Enhanced User Experience:* Implementing RTO to optimize the platform's performance, ensuring fast load times and a smooth, interactive shopping experience.
    - *Dynamic Adjustments:* Adjusting the platform in real-time based on user interactions to provide a personalized and responsive shopping environment.
+
+![image](https://github.com/divyamTBA/MVPs-HTL-VTonVerse/assets/163088865/b5256520-6a19-4379-9fa7-bde9791b3aae)
+
+![image](https://github.com/divyamTBA/MVPs-HTL-VTonVerse/assets/163088865/4d08ccff-aa68-46a4-a328-04801cb92d6a)
+
+![image](https://github.com/divyamTBA/MVPs-HTL-VTonVerse/assets/163088865/a3d3c52a-ad16-4334-b6cf-5a3023e255e3)
 
 ## Technological Innovations
 
