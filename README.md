@@ -51,6 +51,10 @@ Viton - Verse is a cutting-edge platform designed to revolutionize the online sh
 
 ![image](https://github.com/divyamTBA/MVPs-HTL-VTonVerse/assets/163088865/a3d3c52a-ad16-4334-b6cf-5a3023e255e3)
 
+## Embedded Chain gpt
+![image](https://github.com/divyamTBA/MVPs-HTL-VTonVerse/assets/163088865/d4834a8b-9d60-4ec8-88a7-e589dba3a768)
+
+
 ## Technological Innovations
 
 - *Augmented Reality (AR):* Enhances the shopping experience by allowing users to visualize products in their environment or on themselves before purchasing.
